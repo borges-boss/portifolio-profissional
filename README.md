@@ -1,78 +1,48 @@
-# Olá, eu sou o Gabriel Borges 👋
+# Oi, eu sou o Gabriel 👋
 
-Sou desenvolvedor Full Stack com foco em tecnologias JavaScript, especialmente no ecossistema **React e Node.js**. Tenho experiência no desenvolvimento de aplicações web, mobile e APIs, além de interesse em ferramentas que melhoram a experiência de desenvolvimento.
+Sou desenvolvedor Full Stack de Belo Horizonte e gosto principalmente de construir sistemas de ponta a ponta — entender o problema, pensar nas regras de negócio e transformar tudo isso em uma aplicação que realmente funcione.
 
-Atualmente também desenvolvo projetos independentes voltados para **ferramentas de desenvolvimento e sistemas visuais de construção de interfaces**.
+No front-end, trabalho com **React e Next.js**. No back-end, tenho experiência com **.NET, Java e Node.js**, além de bancos relacionais e APIs REST.
 
----
+Já trabalhei em projetos para a **Vale**, desenvolvendo micro-frontends em React e APIs com .NET e Java. Hoje também tenho focado bastante em projetos próprios, principalmente sistemas de gestão e ferramentas que resolvem problemas reais.
 
-# 🚀 Projeto em Destaque
+## Tecnologias que mais uso
 
-## Reactor – Editor Visual para Interfaces React
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-O **Reactor** é uma plataforma de edição visual para interfaces React desenvolvida de forma independente ao longo de aproximadamente dois anos.
+## Projeto em destaque
 
-O objetivo do sistema é permitir que desenvolvedores construam interfaces de forma visual sem perder a flexibilidade da arquitetura baseada em componentes do React.
+### 🌸 CraftFlow
 
-A plataforma inclui um ambiente visual de edição de layouts, renderização dinâmica de componentes e uma arquitetura que permite manipular a estrutura da interface de forma interativa.
+O **CraftFlow** é um sistema de gestão pensado para pequenos e médios produtores artesanais.
 
-O projeto conta com uma **dashboard web e um cliente desktop**, e atualmente possui uma primeira versão **beta funcional** disponível para testes.
+A ideia surgiu enquanto eu pesquisava processos de produção artesanal e percebi como muitos produtores ainda controlam ingredientes, receitas, estoque e custos usando planilhas ou anotações espalhadas.
 
-🔗 Website  
-https://reactorlowcode.com
+O projeto busca centralizar esse processo em um único sistema, permitindo gerenciar matérias-primas, receitas, produtos e custos de fabricação.
 
-![Reactor Screenshot](https://media.licdn.com/dms/image/v2/D4D22AQHXpO4wn7i-2g/feedshare-shrink_1280/B4DZzd0RGQGsAM-/0/1773247992547?e=1775088000&v=beta&t=Y8t8va__Oi7Y70ocUfPZVn3eBGn-yldYwJjMrpTHlKg)
----
+No back-end, estou usando **.NET 10, ASP.NET Core, Entity Framework Core e SQL Server**, com a aplicação organizada em Controllers, Services e Repositories.
 
-# 🛠 Tecnologias
+👉 [Ver o CraftFlow no GitHub](https://github.com/borges-boss/CraftFlow-Projeto-de-Teste)
 
-### Frontend
-React  
-React Native  
-JavaScript  
-HTML  
-CSS  
+## Um pouco sobre mim
 
-### Backend
-Node.js  
-.NET  
-Java  
+Gosto de projetos que começam com um problema de verdade. Normalmente me interesso mais por entender **como o sistema deve funcionar** do que simplesmente reproduzir uma interface ou seguir um tutorial.
 
-### Banco de Dados
-MySQL  
-SQL Server  
-MongoDB  
+Também gosto bastante de arquitetura, APIs, integrações e de pensar em formas de deixar um código mais fácil de entender e evoluir.
 
-### Ferramentas
-Git  
-Scrum  
-Figma  
-Adobe XD  
+Atualmente curso **Sistemas de Informação** e continuo desenvolvendo projetos próprios enquanto aprofundo meus conhecimentos em desenvolvimento Full Stack.
+
+## Contato
+
+📧 [borges.diorato@gmail.com](mailto:borges.diorato@gmail.com)
 
 ---
 
-# 💼 Experiência Profissional
-
-Tenho experiência em desenvolvimento de sistemas corporativos e aplicações mobile, trabalhando com tecnologias modernas e metodologias ágeis.
-
-Atuei no desenvolvimento de sistemas utilizados pela mineradora **Vale**, implementando arquiteturas de **Micro-Frontends com React** e participando da construção de APIs utilizando **.NET e Java**.
-
-Também participei do desenvolvimento de aplicativos móveis e APIs REST utilizando **Node.js, Java e React Native**, contribuindo para a criação de soluções robustas e escaláveis.
-
----
-
-# 🌱 Interesses
-
-Tenho interesse especial em:
-
-• Developer tools  
-• Sistemas visuais de construção de interfaces  
-• Arquiteturas frontend modernas  
-• Experimentos com low-code e UI engineering  
-
----
-
-# 📫 Contato
-
-LinkedIn: https://www.linkedin.com/in/gabriel-borges-diorato/  
-Email: borges.diorato@gmail.com
+Sempre tem alguma coisa nova sendo construída por aqui. 🙂
