@@ -19,9 +19,9 @@ Já trabalhei em projetos para a **Vale**, desenvolvendo micro-frontends em Reac
 
 ## Projeto em destaque
 
-### 🌸 CraftFlow
+### 🌸 ArtCraft
 
-O **CraftFlow** é um sistema de gestão pensado para pequenos e médios produtores artesanais.
+O **ArtCraft** é um sistema de gestão pensado para pequenos e médios produtores artesanais.
 
 A ideia surgiu enquanto eu pesquisava processos de produção artesanal e percebi como muitos produtores ainda controlam ingredientes, receitas, estoque e custos usando planilhas ou anotações espalhadas.
 
