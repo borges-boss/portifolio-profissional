@@ -1,6 +1,6 @@
 # Oi, eu sou o Gabriel 👋
 
-Sou desenvolvedor Full Stack de Belo Horizonte e gosto principalmente de construir sistemas de ponta a ponta — entender o problema, pensar nas regras de negócio e transformar tudo isso em uma aplicação que realmente funcione.
+Sou desenvolvedor Full Stack de Belo Horizonte e gosto principalmente de construir sistemas de ponta a ponta entender o problema, pensar nas regras de negócio e transformar tudo isso em uma aplicação que realmente funcione.
 
 No front-end, trabalho com **React e Next.js**. No back-end, tenho experiência com **.NET, Java e Node.js**, além de bancos relacionais e APIs REST.
 
@@ -29,7 +29,7 @@ O projeto busca centralizar esse processo em um único sistema, permitindo geren
 
 No back-end, estou usando **.NET 10, ASP.NET Core, Entity Framework Core e SQL Server**, com a aplicação organizada em Controllers, Services e Repositories.
 
-👉 [Ver o CraftFlow no GitHub](https://github.com/borges-boss/CraftFlow-Projeto-de-Teste)
+👉 [Ver o ArtCraft no GitHub](https://github.com/borges-boss/CraftFlow-Projeto-de-Teste)
 
 ## Um pouco sobre mim
 
